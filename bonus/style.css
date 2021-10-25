@@ -1,0 +1,79 @@
+#logo{
+    width: 200px;
+    height: auto;
+    position: absolute;
+    left: 10px; bottom: 10px;
+    
+}
+
+.contenitore{
+    margin-left: 10px;
+    
+    
+}
+
+header{
+    background-image: url(img/pattern.png);
+    background-color: deepskyblue;
+    height: 100px;
+    width: 100%;
+    position: relative;
+}
+
+
+
+table{
+    width: 100%;
+}
+
+th{
+    text-align: left;
+}
+
+#sfondo1{
+    background-image: url(img/monitor.jpg);
+}
+#sfondo2{
+    background-image: url(img/graph.jpg);
+    margin-top: 5px;
+}
+.suggerimento{
+    width: 300px;
+    height: 250px;
+    position: relative;
+}
+th{
+    width: 32px;
+}
+.intestazione_tab{
+    background-color: dodgerblue;
+    color: white;
+}
+.riga_tab{
+    background-color: rgba(87,238,255,0.5);
+}
+.titolo_sfondo{
+    color: seashell;
+    position: absolute;
+    left: 3px; top: 5px;
+
+}
+.fotografi p{
+    margin: 0px;
+    font-size: 10px;
+}
+
+h3,h4{
+    color: slategrey;
+}
+
+mark {
+    background-color:yellow
+  }
+
+
+
+
+
+
+
