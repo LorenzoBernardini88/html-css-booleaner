@@ -28,3 +28,17 @@ th{
     text-align: left;
 }
 
+#sfondo1{
+    background-image: url(img/monitor.jpg);
+}
+#sfondo2{
+    background-image: url(img/graph.jpg);
+}
+.suggerimento{
+    width: 300px;
+    height: 250px;
+}
+th{
+    width: 32px;
+}
+
