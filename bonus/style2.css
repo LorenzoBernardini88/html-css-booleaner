@@ -5,6 +5,13 @@
     left: 10px; bottom: 10px;
     
 }
+#sfondo1{
+    background-image: url(img/monitor.jpg);
+}
+#sfondo2{
+    background-image: url(img/graph.jpg);
+    margin-top: 5px;
+}
 
 .contenitore{
     width: 80%;
@@ -21,8 +28,6 @@ header{
     position: relative;
 }
 
-
-
 table{
     width: 100%;
 }
@@ -31,13 +36,8 @@ th{
     text-align: left;
 }
 
-#sfondo1{
-    background-image: url(img/monitor.jpg);
-}
-#sfondo2{
-    background-image: url(img/graph.jpg);
-    margin-top: 5px;
-}
+
+
 .suggerimento{
     width: 300px;
     height: 250px;
