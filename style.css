@@ -1,15 +1,22 @@
 #logo{
-    width: 400px;
+    width: 200px;
     position: absolute;
-    left: 10px; bottom: 20px;
+    left: 10px; bottom: 10px;
+    
+}
+
+.contenitore{
+    margin-left: 10px;
+    
     
 }
 
 header{
     background-image: url(img/pattern.png);
     background-color: deepskyblue;
-    height: 200px;
+    height: 100px;
     position: relative;
 }
+
 
 
