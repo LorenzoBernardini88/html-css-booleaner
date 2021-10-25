@@ -41,4 +41,14 @@ th{
 th{
     width: 32px;
 }
+.intestazione_tab{
+    background-color: dodgerblue;
+}
+.riga_tab{
+    background-color: rgba(87,238,255,0.5);
+}
+
+
+
+
 
